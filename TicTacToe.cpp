@@ -80,7 +80,7 @@ int main()
     board[8] = '8';
     board[9] = '9';
     }
-	cout << "Thanks for play!" << endl;
+	cout << "Thanks for playing!" << endl;
 	return 0;
 }
 
